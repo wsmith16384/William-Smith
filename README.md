@@ -1,2 +1,0 @@
-# William-Smith
-VideoEditBot COMMANDS
